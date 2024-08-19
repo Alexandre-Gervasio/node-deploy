@@ -11,7 +11,7 @@
     "start": "node dist/server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Alexandre-Gervasio",
   "license": "ISC",
   "description": "",
   "devDependencies": {
